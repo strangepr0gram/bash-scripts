@@ -1,0 +1,2 @@
+channel:name:type:regex:min:max:title:"directory"
+cat.music:Cat Music:audio::::cat.music:"ro.labels"
